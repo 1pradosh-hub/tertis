@@ -5,3 +5,6 @@ typing_extensions
 pygame
 random
 
+Use this command :
+
+python3 requirements.txt

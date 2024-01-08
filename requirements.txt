@@ -1,0 +1,4 @@
+os
+typing_extensions
+pygame
+random
